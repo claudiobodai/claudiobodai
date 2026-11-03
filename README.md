@@ -42,15 +42,13 @@
 ---
 
 ### 📊 GitHub Stats & Activity
-
 <div align="center">
-  
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-  <br><br>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/claudiobodai/claudiobodai/main/github-metrics.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/claudiobodai/claudiobodai/main/github-metrics.svg">
+    <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/claudiobodai/claudiobodai/main/github-metrics.svg" width="100%">
+  </picture>
+</div>
   <!-- GitHub Stats Card & Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true" height="195" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" height="195" alt="Top Languages" />
