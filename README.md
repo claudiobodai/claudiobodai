@@ -41,7 +41,8 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Metrics & Insights
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/claudiobodai/claudiobodai/main/github-metrics.svg">
@@ -49,34 +50,9 @@
     <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/claudiobodai/claudiobodai/main/github-metrics.svg" width="100%">
   </picture>
 </div>
-  <!-- GitHub Stats Card & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" height="195" alt="Top Languages" />
-  <br><br>
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ---
-
-### 🐍 Contribution Graph
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <!-- Visitors Count -->
-  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" alt="Visitors count" />
-  <br>
   <a href="https://linkedin.com/in/claudio-bodai">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
