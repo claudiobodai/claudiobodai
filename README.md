@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="./assets/journey.svg" width="100%" alt="Journey: from Istituto Sansovino to Full Stack Developer at Techstar" />
+<img src="./assets/journey.svg" width="100%" alt="Journey: from ioware SA to Full Stack Developer at Techstar" />
 
 <br><br>
 
